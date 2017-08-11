@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="laravel0808@localhost" uuid="61256925-96d9-471d-a60e-0815966fbd46">
+      <database-info product="PostgreSQL" version="9.5.7" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>zbeltia2ngn</user-name>
+      <introspection-schemas>laravel0808:public</introspection-schemas>
+    </data-source>
+    <data-source name="db_zbeltia@localhost" uuid="7444c502-7e67-43dc-9152-d9441f200f05">
+      <database-info product="PostgreSQL" version="9.5.7" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>zbeltia2ngn</user-name>
+      <introspection-schemas>db_zbeltia:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>

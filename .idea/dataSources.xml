@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="laravel0808@localhost" uuid="61256925-96d9-471d-a60e-0815966fbd46">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/laravel0808</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="db_zbeltia@localhost" uuid="7444c502-7e67-43dc-9152-d9441f200f05">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/db_zbeltia</jdbc-url>
+    </data-source>
+  </component>
+</project>
